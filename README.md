@@ -15,12 +15,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 
 
-## 📫 Let's Connect
-[![LinkedIn](www.linkedin.com/in/gobind-chaudhary-05094b1b7)
 
-[![GitHub]
-
----
 
 ⭐️ *Feel free to fork projects or reach out to collaborate!* 🌟
 
