@@ -16,8 +16,8 @@ Welcome to my GitHub! I'm a passionate **Backend Developer in the making** 🛠�
 ## 📚 Learning Journey
 
 I'm documenting my backend development journey day-by-day. Follow my progress on:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-username) <!-- Replace with your profile -->
-- 🐦 [Twitter (X)](https://twitter.com/your-handle) <!-- Replace with your handle -->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gobind-chaudhary) <!-- Replace with your profile -->
+- 🐦 [Twitter (X)](https://x.com/Gobind_003) <!-- Replace with your handle -->
 
 ---
 
@@ -32,7 +32,7 @@ Stay tuned! I'm working on backend projects like:
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com <!-- Replace -->
+- 📧 Email: chaudharygobind24@gmail.com <!-- Replace -->
 - 🌍 Portfolio (coming soon!)
 
 Thanks for stopping by! ⭐
