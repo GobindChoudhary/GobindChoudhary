@@ -1,38 +1,75 @@
-# 👋 Hi there, I'm Gobind Choudhary
+<h1 align="center">👋 Hi, I'm Gobind Choudhary</h1>
 
-Welcome to my GitHub! I'm a passionate **Backend Developer in the making** 🛠️, diving deep into the world of **Node.js, Express, REST APIs, and Databases**.
-
----
-
-## 🚀 About Me
-
-- 💻 Currently learning: `Backend Development with Node.js & Express`
-- 🌱 Exploring: `REST APIs`, `MongoDB`, `Authentication`, `Deployment`
-- 🧠 Always curious to learn new tech and best practices.
-- 🔧 Tools I’m comfortable with: `JavaScript`, `Node.js`, `Postman`, `Git & GitHub`
+<p align="center">
+  Frontend Developer | React Enthusiast | Backend Learner
+</p>
 
 ---
 
-## 📚 Learning Journey
+### 👨‍💻 About Me
 
-I'm documenting my backend development journey day-by-day. Follow my progress on:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gobind-chaudhary) <!-- Replace with your profile -->
-- 🐦 [Twitter (X)](https://x.com/Gobind_003) <!-- Replace with your handle -->
+I am a dedicated and detail-oriented **Frontend Developer** with a strong foundation in:
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **CSS3 & Tailwind CSS**
+
+Currently, I am expanding my skillset into **Backend Development**, with a focus on:
+
+- **Node.js**
+- **Express.js**
+- **RESTful APIs**
+- **MongoDB** (coming soon)
+
+My goal is to become a proficient **Full-Stack Developer** by building scalable and maintainable applications from end to end.
 
 ---
 
-## 🛠️ Projects Coming Soon...
+### 💼 Tech Stack
 
-Stay tuned! I'm working on backend projects like:
-- 🔐 Auth system with JWT
-- 📦 RESTful API for a Task Manager
-- 🌐 Deployment on Render/Netlify/Vercel
+**Frontend**
+
+- ⚛️ React.js  
+- 🎨 Tailwind CSS, CSS3  
+- 🧠 JavaScript  
+
+**Backend (in progress)**
+
+- 🟢 Node.js  
+- 🚀 Express.js  
+- 🔌 REST APIs  
+- 🛢️ MongoDB  
+
+**Tools & Platforms**
+
+- 🛠 Git & GitHub  
+- 🔍 Postman  
+- 📦 npm  
 
 ---
 
-## 📫 Let's Connect
+### 📌 Current Focus
 
-- 📧 Email: chaudharygobind24@gmail.com <!-- Replace -->
-- 🌍 Portfolio (coming soon!)
+- Deepening backend knowledge through hands-on projects  
+- Building full-stack applications using the **MERN Stack**  
+- Documenting and sharing my development journey  
 
-Thanks for stopping by! ⭐
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/gobind-chaudhary) <!-- Replace -->
+- [Twitter (X)](https://x.com/Gobind_003) <!-- Replace -->
+- Email: your.email@example.com <!-- Replace -->
+
+---
+
+<p align="center">
+  <em>"Design gives a product beauty. Code gives it power. I'm here to master both."</em>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
